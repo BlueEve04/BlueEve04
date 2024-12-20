@@ -3,8 +3,19 @@
 
 
 ![](https://github.com/BlueEve04/BlueEve04/blob/output/github-contribution-grid-snake-dark.svg)
-[![BlueEve's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueEve04&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![BlueEve's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueEve04&layout=compact&hide_border=true&langs_count=15)
+
+
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/Gurupreet" style="margin-right: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlueEve04&show_icons=true&theme=dracula&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Gurupreet">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueEve04&layout=compact&hide_border=true&langs_count=15&theme=dracula"/>
+  </a>
+</div>
+
+
+![BlueEve's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueEve04&layout=compact&hide_border=true&langs_count=15&theme=dracula)
 
 # Visitors / 访问人数
 
