@@ -43,7 +43,7 @@
 
 ### Computer / 电脑
 
-![MechRevo Wujie 14 Pro 2023](https://img.shields.io/badge/MechRevo%20Wujie%2014%20Pro-FD4900?style=flat-square&logo=redmi&logoColor=ffffff)
+![MechRevo Wujie 14 Pro 2023](https://img.shields.io/badge/MechRevo%20Wujie%2014%20Pro-2E2E2E?style=flat-square&logo=redmi&logoColor=ffffff)
 
-![MechRevo Kuangshi 16 Super](https://img.shields.io/badge/MechRevo%20Kuangshi%2016%20Super-FD4900?style=flat-square&logo=redmi&logoColor=ffffff)
+![MechRevo Kuangshi 16 Super](https://img.shields.io/badge/MechRevo%20Kuangshi%2016%20Super-2E2E2E?style=flat-square&logo=redmi&logoColor=ffffff)
 
