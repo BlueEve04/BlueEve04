@@ -32,7 +32,7 @@
 
 ### Phone_pad_Mobile / 便携移动设备
 
-![Xiaomi 13 Ultra](https://img.shields.io/badge/Xiaomi%2013%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi 15 Ultra](https://img.shields.io/badge/Xiaomi%2015%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Redmi K40s](https://img.shields.io/badge/Redmi%20K40s-FD4900?style=flat-square&logo=redmi&logoColor=ffffff)
 
 ![Sony Walkman A306](https://img.shields.io/badge/Sony%20Walkman%20A306-FD4900?style=flat-square&logo=sony&logoColor=ffffff)
