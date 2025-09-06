@@ -70,11 +70,11 @@
 
 ![MechRevo Wujie 14 Pro 2023](https://img.shields.io/badge/MechRevo%20Wujie%2014%20Pro-2E2E2E?style=flat-square&logo=redmi&logoColor=ffffff)  x Sold
 
-![MechRevo Wujie 15 X Pro 2025](https://img.shields.io/badge/MechRevo%20Wujie%2014%20Pro-2E2E2E?style=flat-square&logo=redmi&logoColor=ffffff)  x Sold
+![MechRevo Wujie 15 X Pro 2025](https://img.shields.io/badge/MechRevo%20Wujie%2015%20X%20Pro-2E2E2E?style=flat-square&logo=redmi&logoColor=ffffff)  x Sold
 
 ![MechRevo Kuangshi 16 Super](https://img.shields.io/badge/MechRevo%20Kuangshi%2016%20Super-2E2E2E?style=flat-square&logo=redmi&logoColor=ffffff) x Sold
 
-![Asus Zenbook S 16 2024](https://img.shields.io/badge/MechRevo%20Kuangshi%2016%20Super-2E2E2E?style=flat-square&logo=asus&logoColor=f0f0f0) x Sold
+![Asus Zenbook S 16 2024](https://img.shields.io/badge/Asus%20ZenBook%2016%202024-2E2E2E?style=flat-square&logo=asus&logoColor=f0f0f0) x Sold
 
 ![Lenovo ThinkBook 16 plus 2025](https://img.shields.io/badge/Lenovo%20ThinkBook%2016+%202025-2E2E2E?style=flat-square&logo=lenovo&logoColor=ffffff)  
 
