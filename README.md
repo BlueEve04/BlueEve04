@@ -76,6 +76,8 @@
 
 ![Asus Zenbook S 16 2024](https://img.shields.io/badge/Asus%20ZenBook%2016%202024-2E2E2E?style=flat-square&logo=asus&logoColor=f0f0f0) x Sold
 
+![Redmi Book Pro 15 2022](https://img.shields.io/badge/RedmiBook%2015%20Pro%2015%202022-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) x Sold
+
 ![Lenovo ThinkBook 16 plus 2025](https://img.shields.io/badge/Lenovo%20ThinkBook%2016+%202025-2E2E2E?style=flat-square&logo=lenovo&logoColor=ffffff)  
 
 
