@@ -2,8 +2,6 @@
 # PAGE：https://blueeve04.github.io/
 
 
-![](https://github.com/BlueEve04/BlueEve04/blob/output/github-contribution-grid-snake-dark.svg)
-
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/Gurupreet" style="margin-right: 10px;">
