@@ -79,4 +79,10 @@
 ![Lenovo ThinkBook 16 plus 2025](https://img.shields.io/badge/Lenovo%20ThinkBook%2016+%202025-2E2E2E?style=flat-square&logo=lenovo&logoColor=ffffff)  
 
 
+# 🎮 Game in Play / 游戏
 <img width="300" height="300" alt="Osu!_Logo_2016 svg" src="https://github.com/user-attachments/assets/5ff2ddd5-58e4-4170-98b6-abdea3ce2fbd" />
+<img width="300" height="300" alt="MC_Logo_Old" src="https://github.com/user-attachments/assets/ef8c71c4-1b03-40d9-a846-e1c50cec4f47" />
+
+
+
+
