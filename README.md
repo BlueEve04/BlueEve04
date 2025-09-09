@@ -78,4 +78,4 @@
 
 ![Lenovo ThinkBook 16 plus 2025](https://img.shields.io/badge/Lenovo%20ThinkBook%2016+%202025-2E2E2E?style=flat-square&logo=lenovo&logoColor=ffffff)  
 
-
+![OSU!](https://simple.wikipedia.org/wiki/Osu!#/media/File:Osu!_Logo_2016.svg)
