@@ -44,7 +44,7 @@
 ### Phone_pad_Mobile / 便携移动设备
 ![Xiaomi 13 Ultra](https://img.shields.io/badge/Xiaomi%2013%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) x Not in use
 
-![Xiaomi 15 Ultra](https://img.shields.io/badge/Xiaomi%2015%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi 15 Ultra](https://img.shields.io/badge/Xiaomi%2015%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) √ Current EDC
 
 ![Redmi K40s](https://img.shields.io/badge/Redmi%20K40s-FD4900?style=flat-square&logo=redmi&logoColor=ffffff)
 
@@ -54,15 +54,17 @@
 
 ![Sony XZ1](https://img.shields.io/badge/Sony%20XZ1-FD4900?style=flat-square&logo=sony&logoColor=ffffff) x Sold
 
-![Fiio JM21](https://img.shields.io/badge/Fiio%20JM21-FD4900?style=flat-square&logo=fiio&logoColor=ffffff)
+![Fiio JM21](https://img.shields.io/badge/Fiio%20JM21-FD4900?style=flat-square&logo=fiio&logoColor=ffffff) √ Current EDC
 
 ![Xiaomi Pad 6 Pro](https://img.shields.io/badge/Xiaomi%20Pad%206%20Pro-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) x Sold
 
 ![Xiaomi Pad 6s Pro](https://img.shields.io/badge/Xiaomi%20Pad%206S%20Pro-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) x Sold
 
+![Xiaomi Pad 7 Ultra](https://img.shields.io/badge/Xiaomi%20Pad%207%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) √ Current EDC
+
 ![WSA](https://img.shields.io/badge/Windows%20Subsystem%20For%20Android%2013-3DDC84?style=flat-square&logo=Android&logoColor=ffffff)
 
-![Xiaomi Pad 7 Ultra](https://img.shields.io/badge/Xiaomi%20Pad%207%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+
 
 
 ### Computer / 电脑
@@ -77,7 +79,7 @@
 
 ![Redmi Book Pro 15 2022](https://img.shields.io/badge/RedmiBook%2015%20Pro%2015%202022-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) x Sold
 
-![Lenovo ThinkBook 16 plus 2025](https://img.shields.io/badge/Lenovo%20ThinkBook%2016+%202025-2E2E2E?style=flat-square&logo=lenovo&logoColor=ffffff)  
+![Lenovo ThinkBook 16 plus 2025](https://img.shields.io/badge/Lenovo%20ThinkBook%2016+%202025-2E2E2E?style=flat-square&logo=lenovo&logoColor=ffffff)  √ Current EDC
 
 
 # 🎮 Game in Play / 游戏
