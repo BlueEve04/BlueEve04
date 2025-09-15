@@ -50,11 +50,11 @@
 
 ![Sony Walkman A306](https://img.shields.io/badge/Sony%20Walkman%20A306-FD4900?style=flat-square&logo=sony&logoColor=ffffff) x Sold
 
-![Sony XZ1 Compact](https://img.shields.io/badge/Sony%20XZ1%20ACompact-FD4900?style=flat-square&logo=sony&logoColor=ffffff) x Sold
+![Sony XZ1 Compact](https://img.shields.io/badge/Sony%20XZ1%20ACompact-2E2E2E?style=flat-square&logo=sony&logoColor=ffffff) x Sold
 
-![Sony XZ1](https://img.shields.io/badge/Sony%20XZ1-FD4900?style=flat-square&logo=sony&logoColor=ffffff) x Sold
+![Sony XZ1](https://img.shields.io/badge/Sony%20XZ1-2E2E2E?style=flat-square&logo=sony&logoColor=ffffff) x Sold
 
-![Fiio JM21](https://img.shields.io/badge/Fiio%20JM21-FD4900?style=flat-square&logo=fiio&logoColor=ffffff) √ Current EDC
+![Fiio JM21](https://img.shields.io/badge/Fiio%20JM21-F149E0?style=flat-square&logo=fiio&logoColor=ffffff) √ Current EDC
 
 ![Xiaomi Pad 6 Pro](https://img.shields.io/badge/Xiaomi%20Pad%206%20Pro-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) x Sold
 
