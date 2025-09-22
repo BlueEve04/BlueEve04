@@ -87,5 +87,9 @@
 <img width="300" height="300" alt="MC_Logo_Old" src="https://github.com/user-attachments/assets/ef8c71c4-1b03-40d9-a846-e1c50cec4f47" />
 
 
+### eGPUs / 外置显卡
+
+![Nvidia](https://img.shields.io/badge/Nvidia%20RTX%205070%20Ti-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
 
 
