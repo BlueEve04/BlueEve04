@@ -89,7 +89,7 @@
 
 ### eGPUs / 外置显卡
 
-![Nvidia](https://img.shields.io/badge/Nvidia%20RTX%205070%20Ti-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Nvidia](https://img.shields.io/badge/Nvidia%20RTX%205070%20Ti-76B900?style=flat-square&logo=nvidia&logoColor=white) √ Current in use
 
 
 
