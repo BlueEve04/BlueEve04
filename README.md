@@ -79,7 +79,7 @@
 
 ![Redmi Book Pro 15 2022](https://img.shields.io/badge/RedmiBook%2015%20Pro%2015%202022-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) x Sold
 
-![Lenovo ThinkBook 16 plus 2025](https://img.shields.io/badge/Lenovo%20ThinkBook%2016+%202025-2E2E2E?style=flat-square&logo=lenovo&logoColor=ffffff)  √ Current EDC
+![Lenovo ThinkBook 16 plus 2025](https://img.shields.io/badge/Lenovo%20ThinkBook%2016+%202025%20G7+20%IAH-2E2E2E?style=flat-square&logo=lenovo&logoColor=ffffff)  √ Current EDC
 
 
 ### 🎮 Game in Play / 游戏
