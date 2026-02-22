@@ -42,11 +42,13 @@
 # 📱 Devices in Use / 在用的设备
 
 ### Phone_pad_Mobile / 便携移动设备
+![Xiaomi 17 Pro Max](https://img.shields.io/badge/Xiaomi%2017%20Pro%20Max-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) √ Current EDC
+
 ![Xiaomi 13 Ultra](https://img.shields.io/badge/Xiaomi%2013%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) x Not in use
 
-![Xiaomi 15 Ultra](https://img.shields.io/badge/Xiaomi%2015%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) √ Current EDC
+![Xiaomi 15 Ultra](https://img.shields.io/badge/Xiaomi%2015%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) √ Current in use
 
-![Redmi K40s](https://img.shields.io/badge/Redmi%20K40s-FD4900?style=flat-square&logo=redmi&logoColor=ffffff)
+![Redmi K40s](https://img.shields.io/badge/Redmi%20K40s-FD4900?style=flat-square&logo=redmi&logoColor=ffffff) x Sold
 
 ![Sony Walkman A306](https://img.shields.io/badge/Sony%20Walkman%20A306-FD4900?style=flat-square&logo=sony&logoColor=ffffff) x Sold
 
@@ -63,6 +65,9 @@
 ![Xiaomi Pad 7 Ultra](https://img.shields.io/badge/Xiaomi%20Pad%207%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) √ Current EDC
 
 ![WSA](https://img.shields.io/badge/Windows%20Subsystem%20For%20Android%2013-3DDC84?style=flat-square&logo=Android&logoColor=ffffff)
+
+#  ⌚  Wearable / 可穿戴
+![Xiaomi Watch 5 esim](https://img.shields.io/badge/Xiaomi%20Watch%205%20ESIM-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) √ Current EDC
 
 
 
