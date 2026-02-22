@@ -66,7 +66,7 @@
 
 ![WSA](https://img.shields.io/badge/Windows%20Subsystem%20For%20Android%2013-3DDC84?style=flat-square&logo=Android&logoColor=ffffff)
 
-#  ⌚  Wearable / 可穿戴
+### Wearable / 可穿戴
 ![Xiaomi Watch 5 esim](https://img.shields.io/badge/Xiaomi%20Watch%205%20ESIM-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) √ Current EDC
 
 
