@@ -47,7 +47,7 @@
 
 # 📱 Devices in Use / 在用的设备
 
-### Phone_pad_Mobile / 便携移动设备
+### Phones_pad_Mobiles / 便携移动设备
 ![Xiaomi 17 Pro Max](https://img.shields.io/badge/Xiaomi%2017%20Pro%20Max-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) √ Current EDC
 
 ![Xiaomi 13 Ultra](https://img.shields.io/badge/Xiaomi%2013%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) x Not in use
@@ -74,13 +74,13 @@
 
 ![WSA](https://img.shields.io/badge/Windows%20Subsystem%20For%20Android%2013-3DDC84?style=flat-square&logo=Android&logoColor=ffffff)
 
-### Wearable / 可穿戴
+### Wearables / 可穿戴
 ![Xiaomi Watch 5 esim](https://img.shields.io/badge/Xiaomi%20Watch%205%20ESIM-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) √ Current EDC
 
 
 
 
-### Computer / 电脑
+### Computers / 电脑
 
 ![MechRevo Wujie 14 Pro 2023](https://img.shields.io/badge/MechRevo%20Wujie%2014%20Pro-2E2E2E?style=flat-square&logo=redmi&logoColor=ffffff)  x Sold
 
@@ -97,7 +97,7 @@
 ![Aoostar GEM 12 Pro Max](https://img.shields.io/badge/Aoostar%20GEM%2012%20Pro%20Max-4f7fb0?style=flat-square)  √ Current EDC
 
 
-### 🎮 Game in Play / 游戏
+### 🎮 Games in Play / 游戏
 <img width="60" height="60" alt="Osu!_Logo_2016 svg" src="https://github.com/user-attachments/assets/5ff2ddd5-58e4-4170-98b6-abdea3ce2fbd" />
 <img width="60" height="60" alt="MC_Logo_Old" src="https://github.com/user-attachments/assets/ef8c71c4-1b03-40d9-a846-e1c50cec4f47" />
 
