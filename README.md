@@ -42,7 +42,7 @@
 
 ![Android Baklava 16](https://img.shields.io/badge/Android%20Baklava%2016-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 
-![Android Cinnamon Bun 17](https://img.shields.io/badge/Android%20Baklava%2016-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+![Android Cinnamon Bun 17](https://img.shields.io/badge/Android%20Cinnamon%20Bun%2017-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 
 
 # 📱 Devices in Use / 在用的设备
