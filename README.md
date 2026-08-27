@@ -47,7 +47,7 @@
 
 # 📱 Devices in Use / 在用的设备
 
-### Phones_pad_Mobiles / 便携移动设备
+### Phones_pads_Mobiles / 便携移动设备
 ![Xiaomi 17 Pro Max](https://img.shields.io/badge/Xiaomi%2017%20Pro%20Max-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) √ Current EDC
 
 ![Xiaomi 13 Ultra](https://img.shields.io/badge/Xiaomi%2013%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) x Not in use
