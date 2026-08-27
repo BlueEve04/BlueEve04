@@ -94,7 +94,7 @@
 
 ![Lenovo ThinkBook 16 plus 2025](https://img.shields.io/badge/Lenovo%20ThinkBook%2016+%202025%20G7+%20IAH-2E2E2E?style=flat-square&logo=lenovo&logoColor=ffffff)  √ Current EDC
 
-![Aoostar GEM 12 Pro Max](https://img.shields.io/badge/Lenovo%20ThinkBook%2016+%202025%20G7+%20IAH-2E2E2E?style=flat-square&logo=lenovo&logoColor=ffffff)  √ Current EDC
+![Aoostar GEM 12 Pro Max](https://img.shields.io/badge/Aoostar%20GEM%2012%20Pro%20Max-2E2E2E?style=flat-square)  √ Current EDC
 
 
 ### 🎮 Game in Play / 游戏
