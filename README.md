@@ -1,19 +1,6 @@
 # ~~**纯在摆烂**~~
 # PAGE：https://blogs.blueeve.top/
 
-
-
-<div style="display: flex; align-items: center;">
-  <a href="https://github.com/BlueEve04" style="margin-right: 10px;height:300px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlueEve04&show_icons=true&theme=dracula&hide_border=true"/>
-  </a>
-  <a href="https://github.com/BlueEve04" style="margin-right: 10px;height:300px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueEve04&layout=compact&hide_border=true&langs_count=15&theme=dracula"/>
-  </a>
-</div>
-
-
-
 # Visitors / 访问人数
 
 ![](https://count.getloli.com/@BlueEve04?name=BlueEve04&theme=original-new&padding=6&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto)
