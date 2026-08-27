@@ -22,11 +22,15 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu%2022%2e04%20LTS-DD4814?style=flat-square&logo=ubuntu&logoColor=ffffff) x Updated
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu%2025-DD4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%2025-DD4814?style=flat-square&logo=ubuntu&logoColor=ffffff) x Updated
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu%2026%2e04-DD4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
 ![Windows](https://img.shields.io/badge/Windows%2011%20Pro%2024H2-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff) x Updated
 
-![Windows](https://img.shields.io/badge/Windows%2011%20Pro%2024H4-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
+![Windows](https://img.shields.io/badge/Windows%2011%20Pro%2024H4-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff) x Updated
+
+![Windows](https://img.shields.io/badge/Windows%2011%20Pro%2025H2-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 
 ![WSL2](https://img.shields.io/badge/WSL2%20Ubuntu%2024%2e04%20LTS-DD4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 
@@ -34,9 +38,11 @@
 
 ![Android Upside Down Cake 14](https://img.shields.io/badge/Android%20Upside%20Down%20Cake%2014-3DDC84?style=flat-square&logo=android&logoColor=ffffff) x Updated
 
-![Android Vanilla Ice Cream 15](https://img.shields.io/badge/Android%20Vanilla%20Ice%20Cream%2015-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+![Android Vanilla Ice Cream 15](https://img.shields.io/badge/Android%20Vanilla%20Ice%20Cream%2015-3DDC84?style=flat-square&logo=android&logoColor=ffffff) x Updated
 
 ![Android Baklava 16](https://img.shields.io/badge/Android%20Baklava%2016-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+
+![Android Cinnamon Bun 17](https://img.shields.io/badge/Android%20Baklava%2016-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 
 
 # 📱 Devices in Use / 在用的设备
@@ -64,6 +70,8 @@
 
 ![Xiaomi Pad 7 Ultra](https://img.shields.io/badge/Xiaomi%20Pad%207%20Ultra-FD4900?style=flat-square&logo=xiaomi&logoColor=ffffff) √ Current EDC
 
+![Redmi K Pad](https://img.shields.io/badge/Redmi%20K%20Pad-FD4900?style=flat-square&logo=redmi&logoColor=ffffff) √ Current EDC
+
 ![WSA](https://img.shields.io/badge/Windows%20Subsystem%20For%20Android%2013-3DDC84?style=flat-square&logo=Android&logoColor=ffffff)
 
 ### Wearable / 可穿戴
@@ -86,6 +94,8 @@
 
 ![Lenovo ThinkBook 16 plus 2025](https://img.shields.io/badge/Lenovo%20ThinkBook%2016+%202025%20G7+%20IAH-2E2E2E?style=flat-square&logo=lenovo&logoColor=ffffff)  √ Current EDC
 
+![Aoostar GEM 12 Pro Max](https://img.shields.io/badge/Lenovo%20ThinkBook%2016+%202025%20G7+%20IAH-2E2E2E?style=flat-square&logo=lenovo&logoColor=ffffff)  √ Current EDC
+
 
 ### 🎮 Game in Play / 游戏
 <img width="60" height="60" alt="Osu!_Logo_2016 svg" src="https://github.com/user-attachments/assets/5ff2ddd5-58e4-4170-98b6-abdea3ce2fbd" />
@@ -94,7 +104,8 @@
 
 ### eGPUs / 外置显卡
 
-![Nvidia](https://img.shields.io/badge/Nvidia%20RTX%205070%20Ti-76B900?style=flat-square&logo=nvidia&logoColor=white) √ Current in use
+![Nvidia](https://img.shields.io/badge/Nvidia%20RTX%205070%20Ti-76B900?style=flat-square&logo=nvidia&logoColor=white) x Sold
 
+![Nvidia](https://img.shields.io/badge/Nvidia%20RTX%205060%20Ti-76B900?style=flat-square&logo=nvidia&logoColor=white) √ Current in use
 
 
