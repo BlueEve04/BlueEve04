@@ -1,10 +1,6 @@
 # ~~**纯在摆烂**~~
 # PAGE：https://blogs.blueeve.top/
 
-### Scholars：
-### https://scholar.google.com/citations?user=b3-aj4AAAAAJ&hl=zh-CN&oi=ao
-### https://www.researchgate.net/profile/Yima-Wang/research
-
 # Visitors / 访问人数
 
 ![](https://count.getloli.com/@BlueEve04?name=BlueEve04&theme=original-new&padding=6&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto)
